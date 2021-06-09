@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Autumn vedio</string>
+    <string name="time1">0:00:05 seconds time</string>
+    <string name="title1">Fountain in autumnn night</string>
+    <string name="time2">0:00:03 seconds time</string>
+    <string name="time3">0:00:06 seconds time</string>
+    <string name="title2">Cool autumn valley</string>
+    <string name="video1">fountain_night</string>
+    <string name="title3">Waterfall on the road in autumn</string>
+    <string name="video3">waterfall_street</string>
+    <string name="video2">creek_rock</string>
+    <string name="main_title">Autumn vedio</string>
+    <string name="second_title">Detail vedio screen</string>
+    <string name="detail1">This video was taken at Seoul Station as a video that lets you feel the mood of an autumn night.</string>
+    <string name="detail2">This video was filmed in Shiwoohan Valley in the fall.</string>
+    <string name="detail3">This video shot a waterfall flowing over a road in autumn.</string>
+    <string name="start_btn">Vedio start</string>
+    <string name="pause_btn">Vedio Pause</string>
+    <string name="stop_btn">Vedio Stop</string>
+</resources>

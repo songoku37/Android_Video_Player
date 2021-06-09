@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">가을 비디오 앨범_2014141004</string>
+    <string name="main_title">"이성재의 가을 동영상 목록 "</string>
+    <string name="second_title">상세 동영상 화면</string>
+    <string name="title1">밤의 분수대</string>
+    <string name="time1">0:00:05초 동영상</string>
+    <string name="video1">fountain_night</string>
+    <string name ="detail1">이 영상은 가을밤의 정취를 느낄 수 있는 영상으로 서울역에서 촬영 되었습니다.</string>
+
+    <string name="title2">시원한 가을 계곡</string>
+    <string name="time2">0:00:03초 동영상</string>
+    <string name="video2">creek_rock</string>
+    <string name ="detail2">이 영상은 가을의 시워한 계곡에서 촬영 되었습니다.</string>
+
+
+    <string name="title3">가을 길 위의 폭포</string>
+    <string name="time3">0:00:06초 동영상</string>
+    <string name="video3">waterfall_street</string>
+    <string name ="detail3">이 영상은 가을 길 위의 흘러가는 폭포를 촬영했습니다.</string>
+
+    <string name="start_btn">동영상 시작</string>
+    <string name="pause_btn">동영상 일시정지</string>
+    <string name="stop_btn">동영상 종료</string>
+</resources>
